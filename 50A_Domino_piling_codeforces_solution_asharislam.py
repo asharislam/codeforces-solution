@@ -1,0 +1,5 @@
+x = input()
+y = int(x.split()[0])
+z = int(x.split()[1])
+a = int((y*z)/2)
+print(a)
