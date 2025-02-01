@@ -6,6 +6,7 @@ if "1" in s:
 else:
     print("EASY")
 
+    
 # Another way
 # n = int(input())
 # s = input().split()
