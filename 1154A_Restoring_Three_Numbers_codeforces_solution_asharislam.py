@@ -13,13 +13,14 @@
 # print(b, a, c)
 
 
-s = sorted(list(map(int, input().split())))
-k = s[3]
-a = k-s[2]
-b = k-s[1]
-c = k-s[0]
-print(b, a, c)
+
+# s = sorted(list(map(int, input().split())))
+# k = s[3]
+# a = k-s[2]
+# b = k-s[1]
+# c = k-s[0]
+# print(b, a, c)
 
 
-s = sorted(list(map(int, input().split())))
-print(s[3]-s[1], s[3]-s[2], s[3]-s[0])
+# s = sorted(list(map(int, input().split())))
+# print(s[3]-s[1], s[3]-s[2], s[3]-s[0])
