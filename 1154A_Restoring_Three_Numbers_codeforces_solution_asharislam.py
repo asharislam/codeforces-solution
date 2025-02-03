@@ -13,7 +13,6 @@
 # print(b, a, c)
 
 
-
 s = sorted(list(map(int, input().split())))
 k = s[3]
 a = k-s[2]
