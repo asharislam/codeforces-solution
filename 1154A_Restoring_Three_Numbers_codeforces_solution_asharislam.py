@@ -20,6 +20,7 @@ print(b, a, c)
 # c = k-s[0]
 # print(b, a, c)
 
+
 # another way
 # s = sorted(list(map(int, input().split())))
 # print(s[3]-s[1], s[3]-s[2], s[3]-s[0])
