@@ -11,22 +11,22 @@ print(y)
 
 
 # Another way
-a, b = sorted(list(map(int, input().split())))
-x = b-a
-y = x//2
-print(a)
-print(y)
+# a, b = sorted(list(map(int, input().split())))
+# x = b-a
+# y = x//2
+# print(a)
+# print(y)
 
 
 # Another way
-a, b = sorted(list(map(int, input().split())))
-print(a)
-print((b-a)//2)
+# a, b = sorted(list(map(int, input().split())))
+# print(a)
+# print((b-a)//2)
 
 # Another way
-a, b = map(int, input().split())
-x = min(a, b)
-y = abs(a - b)
-z = y//2
-print(x)
-print(z)
+# a, b = map(int, input().split())
+# x = min(a, b)
+# y = abs(a - b)
+# z = y//2
+# print(x)
+# print(z)
